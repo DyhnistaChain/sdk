@@ -1,0 +1,19 @@
+{
+  "name": "dyhnista",
+  "version": "1.0.0",
+  "description": "Dynamic Graph-Based Memory System",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node examples/demo.js"
+  },
+  "keywords": [
+    "graph",
+    "memory",
+    "ai",
+    "knowledge-graph",
+    "dynamic-memory"
+  ],
+  "author": "DYHNISTA",
+  "license": "MIT"
+}
